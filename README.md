@@ -1,9 +1,14 @@
-## 📊 HR Analytics Dashboard – Tableau Project
+## 📊 HR Analytics Dashboard – Data Analytics Project
 ## 📌 Project Overview
 
-The HR Analytics Dashboard is an interactive data visualization project built using Tableau to analyze workforce data and uncover insights related to employee attrition, demographics, and organizational trends.
+The HR Analytics Dashboard is an interactive data visualization project built to analyze workforce data and uncover insights related to employee attrition, demographics, and organizational trends.
 
 This dashboard enables HR teams and business leaders to make data-driven decisions by identifying patterns in employee behavior, retention, and workforce distribution.
+
+## 🌐 Live Interactive Dashboard
+
+🔎 Explore the dashboard here:
+👉 https://app.powerbi.com/groups/me/reports/de95a1f6-1a09-4684-aef8-07575698886a/13c8a28c0aaded4d190a?experience=power-bi
 
 ## 🎯 Objectives
 
@@ -26,23 +31,23 @@ Build an interactive and user-friendly dashboard for business insights
 ✔ Education field breakdown
 ✔ Interactive filters for dynamic analysis
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
-Tableau Desktop / Tableau Public
+Power BI
 
 Microsoft Excel (Data Cleaning & Preparation)
 
-HR Dataset (Sample Workforce Data)
+HR Dataset (Workforce Data)
 
 ## 📂 Project Structure
-```
 HR-Analytics-Tableau-Dashboard/
+```
 │
 ├── dashboard/        
 ├── data/             
 ├── screenshots/      
 └── README.md
-```     
+```       
 
 ## 📸 Dashboard Preview
 ![HR Analytics Dashboard Overview](screenshots/hr_analytics_dashboard_overview.png)
