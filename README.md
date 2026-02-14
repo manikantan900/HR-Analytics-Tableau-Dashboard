@@ -35,12 +35,14 @@ Microsoft Excel (Data Cleaning & Preparation)
 HR Dataset (Sample Workforce Data)
 
 ## 📂 Project Structure
+```
 HR-Analytics-Tableau-Dashboard/
 │
 ├── dashboard/        
 ├── data/             
 ├── screenshots/      
-└── README.md         
+└── README.md
+```     
 
 ## 📸 Dashboard Preview
 ![HR Analytics Dashboard Overview](screenshots/hr_analytics_dashboard_overview.png)
@@ -57,6 +59,7 @@ Gender distribution across departments
 
 Workforce experience trends
 
-## 👤 Author
+## 👨‍💻 Author
 
-Manikantan P
+ManiKantan P
+Business Analyst | Power BI | Tableau | SQL | Python
