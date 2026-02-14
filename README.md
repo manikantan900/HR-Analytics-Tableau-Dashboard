@@ -22,14 +22,14 @@ Evaluate key HR metrics to support retention strategies
 
 Build an interactive and user-friendly dashboard for business insights
 
-## 📊 Key Dashboard Features
+## 📊 Key Dashboard Features  
 
-✔ KPI Cards (Total Employees, Attrition Rate, Active Employees)
-✔ Attrition analysis by Department & Job Role
-✔ Gender-wise employee distribution
-✔ Age group analysis
-✔ Education field breakdown
-✔ Interactive filters for dynamic analysis
+- KPI Cards (Total Employees, Attrition Rate, Active Employees)  
+- Attrition analysis by Department & Job Role  
+- Gender-wise employee distribution  
+- Age group analysis  
+- Education field breakdown  
+- Interactive filters for dynamic analysis  
 
 ## 🛠️ Tools & Technologies Used
 
