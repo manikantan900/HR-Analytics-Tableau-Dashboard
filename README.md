@@ -50,7 +50,7 @@ HR-Analytics-Tableau-Dashboard/
 ```       
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard Overview](screenshots/hr_analytics_dashboard_overview.png)
+![HR Analytics Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## 📈 Business Insights Derived
 
