@@ -1,14 +1,14 @@
 ## 📊 HR Analytics Dashboard – Data Analytics Project
 ## 📌 Project Overview
 
-The HR Analytics Dashboard is an interactive data visualization project built to analyze workforce data and uncover insights related to employee attrition, demographics, and organizational trends.
+The **HR Analytics Dashboard** is an interactive data visualization project built to analyze workforce data and uncover insights related to employee attrition, demographics, and organizational trends.
 
 This dashboard enables HR teams and business leaders to make data-driven decisions by identifying patterns in employee behavior, retention, and workforce distribution.
 
 ## 🌐 Live Interactive Dashboard
 
 🔎 Explore the dashboard here:
-👉 https://app.powerbi.com/groups/me/reports/de95a1f6-1a09-4684-aef8-07575698886a/13c8a28c0aaded4d190a?experience=power-bi
+👉 https://public.tableau.com/app/profile/manikantan.p/viz/HRANALYTICSDASHBOARD_17690118916070/HRAnalyticsDashboard
 
 ## 🎯 Objectives
 
